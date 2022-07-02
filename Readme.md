@@ -15,4 +15,4 @@
 ## Screenshots
 1. Final Output of this Exercise
 
-![img1](https://github.com/kuluruvineeth/SunShine/blob/exercise1/Screenshots/img.png)
+![img1](https://github.com/kuluruvineeth/SunShine/blob/CreateLayout/Screenshots/img.png)

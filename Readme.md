@@ -1,4 +1,4 @@
-# A Toy Project Application
+# A SunShine Weather Application
 
 ## Tasks to be accomplished in this exercise :
 - [x] Create a field to store the weather display TextView.

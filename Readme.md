@@ -10,3 +10,4 @@
 1. Final Output of this Exercise
 
 ![img1](https://github.com/kuluruvineeth/Sunshine/blob/LaunchNewActivity/Screenshots/img.png)
+![img2](https://github.com/kuluruvineeth/Sunshine/blob/LaunchNewActivity/Screenshots/img_1.png)

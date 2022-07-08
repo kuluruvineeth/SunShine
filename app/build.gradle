@@ -25,7 +25,13 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    // TODO (1) Add preferences dependency to gradle
+    // COMPLETED (1) Add preferences dependency to gradle
+    def preference_version = "1.2.0"
+
+    // Java language implementation
+    implementation "androidx.preference:preference:$preference_version"
+    // Kotlin
+    implementation "androidx.preference:preference-ktx:$preference_version"
 
     // Instrumentation dependencies use androidTestImplementation
     // (as opposed to testImplementation for local unit tests run in the JVM)
